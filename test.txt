@@ -1,4 +1,8 @@
 hello world
 
 
+<<<<<<< HEAD
 Branch bramch brongch lunch launch
+=======
+Conflict test
+>>>>>>> cdaca1634a6bc55cd1bedc24456341ae6360382c
