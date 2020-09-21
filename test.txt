@@ -1,6 +1,4 @@
 hello world
 
-blah
 
 Branch bramch brongch lunch launch
-Conflict test
